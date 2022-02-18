@@ -1,0 +1,27 @@
+Entrar na pasta do projetoe e no visual studio abrir um novo terminal
+npm => Instala bibliotecas
+npm init -y=> Inicia o projeto
+
+Instalar TypeScript para teste
+npm i -D typescript
+Se trocar o D por G, fica global
+
+Biblioteca cowsay => todas as bibliotecas
+npx => Executa os comandos da biblioteca.
+Ex: npx cowsay Olá
+
+npx tsc --init => Cria um arquivo tsconfig
+
+No arquivo criado, habilitar "rootDir": "./src", 
+Habilitar "outDir": "./dist", 
+
+npx tsc -w => Para criar build automático. Cria a pasta dist
+
+npm i -D @types/node => Instala tipos de código node
+
+cd dist => Entra na pasta com arquivo js
+
+digitar node espaço => Executa o arquivo js
+
+callback => Função que executa alguma coisa depois de algum tempo.
+

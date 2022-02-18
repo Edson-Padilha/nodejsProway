@@ -1,0 +1,5 @@
+Esse é um arquivo de testes que vai ser lido através do Node.
+Meu nome é Edson.
+Essa é uma nova linha
+Essa é uma nova linha
+Essa é uma nova linha

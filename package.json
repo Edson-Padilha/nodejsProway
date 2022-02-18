@@ -1,0 +1,27 @@
+{
+  "name": "nodejsproway",
+  "version": "1.0.0",
+  "description": "Curso Proway",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Edson-Padilha/nodejsProway.git"
+  },
+  "keywords": [],
+  "author": "Edson Padilha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Edson-Padilha/nodejsProway/issues"
+  },
+  "homepage": "https://github.com/Edson-Padilha/nodejsProway#readme",
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
