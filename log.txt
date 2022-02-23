@@ -1,0 +1,77 @@
+Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}Memória total: {memoriaTotal} MB 
+
+                      Memória Livre: {memoriaLivre} MB 
+
+                      Utilização da memória: {usoMemoria}

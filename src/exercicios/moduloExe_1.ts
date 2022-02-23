@@ -24,3 +24,4 @@ try {
 }
 setInterval(escreveLogMemoria, 5000);
 
+export{};

@@ -21,3 +21,4 @@ try{
 setTimeout(() => console.log("Teste"), 2000);
 setInterval(() => console.log("Teste 2"), 3000);
 
+export{};
